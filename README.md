@@ -5,4 +5,5 @@ Made with HTML5, JavaScript and CSS. This project demonstrates the animation sty
 
 As the user scrolls, the content boxes will come from alternating sides of the screen for each box that appears.
 
-![Capture3](https://github.com/daviskj/scroll_content_animation/assets/98443655/1e2fa158-f273-41d7-8530-672cb07d0676)
+![Capture3](https://github.com/daviskj/scroll_content_animation/assets/98443655/521dd509-c22c-4117-97cb-bc179f77c01b)
+
